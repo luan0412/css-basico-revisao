@@ -1,0 +1,46 @@
+h1{
+    text-align: right;
+}
+table{
+    border: 1.5px solid black;
+    margin: 0 auto;
+}
+tr{
+    border: 1.5px solid black;
+}
+td{
+    border: 1.5px solid black;
+}
+th{
+    border: 1.5px solid black;
+}
+#name1{
+    color: red;
+    background-color: purple;
+}
+#name2{
+    color:darkgreen;
+    background-color: red;
+}
+#name3{
+    color:orange;
+    background-color: blue;
+}
+#th1{
+    background-color: salmon;
+}
+#th2{
+    background-color: aqua
+}
+#td1{
+    background-color: blueviolet;
+}
+#td2{
+    background-color:firebrick ;
+}
+#td3{
+    background-color: gold  ;
+}
+.data{
+    font-weight: bold;
+}

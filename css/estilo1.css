@@ -1,0 +1,10 @@
+.destaque{
+    padding: 15px;
+    background-color: rgba(255, 255, 0, 0.301);
+}
+#unico{
+    font-weight: bold;
+}
+#verm{
+    color: red;
+}

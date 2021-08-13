@@ -1,0 +1,32 @@
+div{
+    border: solid 1px;
+    height: 100px;
+}
+#div1{
+    background:red;
+    border:solid 5px green;
+}
+
+#div3{
+    background:#AB82FF;
+}
+#div4{
+    background:orange;
+    border:solid 5px brown;
+}
+
+#li1{
+    color:green;
+}
+
+#li3{
+    color:yellow;
+}
+
+p:only-child{
+    font-size:30px;
+}
+
+ul{
+    text-decoration:underline;
+}
